@@ -1,0 +1,8 @@
+{
+  "name": "PersonaGen",
+  "description": "Crie e edite imagens de personagens e cenários com gemini-nano-banana-2.1 e pesquisa de locais reais com Google Maps Grounding via gemini-3.8-flash.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
